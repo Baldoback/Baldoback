@@ -1,48 +1,97 @@
 # 👋 Hola, soy Diego Baldovino
 
-💻 **Estudiante de Análisis y Desarrollo de Software**
+### 💻 Estudiante de Análisis y Desarrollo de Software
 
-Actualmente estoy estudiando **Análisis y Desarrollo de Software** y construyendo mi camino en el mundo de la tecnología.
+¡Bienvenido a mi perfil! 👋
+
+Actualmente soy estudiante de **Análisis y Desarrollo de Software** y estoy construyendo mi camino en el mundo de la tecnología.
 
 Desde siempre me ha apasionado la tecnología, especialmente el **desarrollo de software** y la creación de soluciones mediante código.
 
+Actualmente estoy fortaleciendo mis conocimientos y desarrollando proyectos que me permitan llevar la teoría a la práctica.
+
+---
+
 ## 🛠️ Tecnologías
 
-Actualmente trabajo con:
+Estas son algunas de las tecnologías con las que trabajo actualmente:
 
-* 🌐 **HTML**
-* 🐍 **Python**
-* 🗄️ **MySQL**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,python,mysql" />
+</p>
 
-Me encuentro constantemente **mejorando mis habilidades**, aprendiendo nuevas herramientas y desarrollando proyectos para poner en práctica mis conocimientos.
+* 🌐 HTML
+* 🐍 Python
+* 🗄️ MySQL
+
+> 📚 Me encuentro constantemente aprendiendo y mejorando mis habilidades para ampliar mis conocimientos en desarrollo de software.
+
+---
 
 ## 🚀 En qué estoy trabajando
 
-* Desarrollo de aplicaciones y páginas web
-* Bases de datos y gestión de información
-* Programación con Python
-* Mejora de mis habilidades de desarrollo de software
-* Creación de proyectos para fortalecer mi experiencia
+Actualmente estoy enfocado en:
 
-* ## 📊 Mis estadísticas
+* 🌐 Desarrollo de páginas y aplicaciones web
+* 🐍 Programación con Python
+* 🗄️ Diseño y gestión de bases de datos
+* 🔐 Buenas prácticas de seguridad
+* 🎨 Creación de interfaces modernas
+* 📚 Fortalecimiento de mis conocimientos de desarrollo de software
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Baldoback&show_icons=true&theme=tokyonight)
+---
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Baldoback&layout=compact&theme=tokyonight)
+## 📊 Mis estadísticas de GitHub
 
-## 📚 Actualmente aprendiendo
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Baldoback&show_icons=true&theme=dark&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baldoback&layout=compact&theme=dark&hide_border=true" height="170"/>
+</p>
 
-Estoy enfocado en seguir fortaleciendo mis conocimientos y ampliar progresivamente mi stack tecnológico.
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Baldoback&theme=dark&hide_border=true"/>
+</p>
+
+---
+
+## 📌 Proyectos
+
+Estoy trabajando en diferentes proyectos para poner en práctica mis conocimientos y seguir creciendo como desarrollador.
+
+### 🌐 Desarrollo Web
+
+Proyectos enfocados en diseño, estructura, funcionalidad y experiencia de usuario.
+
+### 🗄️ Bases de datos
+
+Diseño y desarrollo de sistemas utilizando bases de datos relacionales y SQL.
+
+### 🐍 Python
+
+Proyectos para fortalecer mi lógica de programación y desarrollar soluciones mediante Python.
+
+---
 
 ## 🎯 Mi objetivo
 
-Seguir creciendo como desarrollador, convertir mis conocimientos en proyectos reales y construir soluciones de software que sean útiles, eficientes y bien estructuradas.
+Mi objetivo es seguir creciendo como desarrollador, aprender nuevas tecnologías y transformar mis conocimientos en **proyectos reales, útiles y bien estructurados**.
+
+Cada proyecto es una oportunidad para aprender algo nuevo y mejorar mis habilidades.
+
+---
 
 ## 📫 Conecta conmigo
 
-* Gmail: baldovinoworking@Gmail.com
-* LinkedIn: www.linkedin.com/in/diego-baldovino
-* GitHub: @Baldoback
+📧 **Gmail:** [baldovinoworking@gmail.com](mailto:baldovinoworking@gmail.com)
+
+💼 **LinkedIn:** [Diego Baldovino](https://www.linkedin.com/in/diego-baldovino)
+
+🐙 **GitHub:** [@Baldoback](https://github.com/Baldoback)
+
 ---
 
-⭐ Gracias por visitar mi perfil.
+### ⭐ Gracias por visitar mi perfil
+
+Si te interesa alguno de mis proyectos, puedes explorarlos en mis repositorios.
+
+**Siempre aprendiendo. Siempre construyendo. 🚀**
