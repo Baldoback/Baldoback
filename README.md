@@ -24,6 +24,12 @@ Me encuentro constantemente **mejorando mis habilidades**, aprendiendo nuevas he
 * Mejora de mis habilidades de desarrollo de software
 * Creación de proyectos para fortalecer mi experiencia
 
+* ## 📊 Mis estadísticas
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Baldoback&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Baldoback&layout=compact&theme=tokyonight)
+
 ## 📚 Actualmente aprendiendo
 
 Estoy enfocado en seguir fortaleciendo mis conocimientos y ampliar progresivamente mi stack tecnológico.
