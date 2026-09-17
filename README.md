@@ -1,6 +1,3 @@
-
-# Project Title
-
 # 👋 Hola, soy Diego Baldovino
 
 💻 **Estudiante de Análisis y Desarrollo de Software**
